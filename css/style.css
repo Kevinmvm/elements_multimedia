@@ -219,10 +219,9 @@ ul li:hover {
   }
 
   .video{
-    position: relative;
     padding: 0;
     margin: 0;
-    margin-top: 1100px;
+    margin-top: 1000px;
     display: flex;
     align-items: center;
     justify-content: center;
